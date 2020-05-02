@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://rocketseat.com.br/gostack">
-    <img alt="Go Stack" title="Go Stack" src="https://github.com/fabiopicolijr/desafio-conceitos-react-native/blob/master/src/assets/go-stack.jpg" />
+    <img alt="Go Stack" title="Go Stack" src="https://ik.imagekit.io/fabiopicolijr/go-stack_dCsK74Wtc.jpg" />
   </a>
 </p>
 <p align="center">Solving the <b>Rocketseat bootcamp</b> React Native challenge :rocket:</p>

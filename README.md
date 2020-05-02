@@ -30,7 +30,7 @@
   react-native run-android 
 ```
 
-It's important to mention that the url from the [app.js](https://github.com/fabiopicolijr/desafio-conceitos-node/blob/master/src/app.js) file will change depending of the way that you're running your app with a emulator. 
+It's important to mention that the url from the [api.js](https://github.com/fabiopicolijr/desafio-conceitos-react-native/blob/master/src/services/api.js) file will change depending of the way that you're running your app with a emulator. 
 <br />
 <br />
 
